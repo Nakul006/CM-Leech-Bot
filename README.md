@@ -286,6 +286,7 @@ You can add a custom name as it's prefix to the file. Example: if gk.txt uploade
 
 
   ## Credits
+  For Me 🙂🙌
   - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive)
   - [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code
   - [cihanvol](https://github.com/cihanvol) for [direct_link_generator](https://github.com/reaitten/tgtlg/blob/main/tgtlg/helper_funcs/direct_link_generator.py)
